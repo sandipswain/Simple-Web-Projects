@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SignUp</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css"
+        integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu" crossorigin="anonymous">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Hanalei+Fill&family=Marck+Script&display=swap"
+        rel="stylesheet">
+</head>
+<style>
+    #up {
+        color: cornflowerblue;
+        font-family: 'Hanalei Fill', cursive;
+        font-size: 20px;
+    }
+
+    .jumbotron small {
+        color: red;
+    }
+</style>
+
+<body>
+    <nav class="navbar navbar-inverse">
+        <div class="container">
+            <ul class="nav navbar-nav">
+                <li><a href="main.html" id="up">Tea Lover's 🍵</a></li>
+            </ul>
+        </div>
+
+    </nav>
+    <div class="container">
+        <div class="jumbotron">
+            <h2>Log In</h2>
+            <small>Enter your mail and password!</small>
+        </div>
+        <form action="">
+            <div class="form-group">
+                <label for="exampleInputEmail1">Email address</label>
+                <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Email">
+            </div>
+            <div class="form-group">
+                <label for="exampleInputPassword1">Password</label>
+                <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password">
+            </div>
+            <div class="checkbox">
+                <label for="usercheck">
+                    <input type="checkbox" name="usercheck" value="">
+
+                    Keep Me Logged In</label>
+
+            </div>
+
+            <button type="submit" class="btn btn-default" name="button">Submit</button>
+        </form>
+    </div>
+</body>
+
+</html>
