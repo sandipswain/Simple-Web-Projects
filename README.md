@@ -2,7 +2,7 @@
 
 |  #  | Project                                                                                                                     | Link
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
-| 01  | [Responsive Navbar Animation](https://github.com/sandipswain/Sample-Web-Practice/tree/master/Animated%20Responsive%20Navbar)                            | [Live Demo](https://sandipswain.github.io/Sample-Web-Practice/Animated%20Responsive%20Navbar/index.html)
+| 01  | [Responsive Navbar Animation](https://github.com/sandipswain/Sample-Web-Practice/tree/master/Animated%20Responsive%20Navbar)                            | [View (https://sandipswain.github.io/Sample-Web-Practice/Animated%20Responsive%20Navbar/index.html)
 
 #### 1. [Responsive Navbar Animation](https://sandipswain.github.io/Sample-Web-Practice/Animated%20Responsive%20Navbar/index.html)
 #### 2. [Spectral V](https://sandipswain.github.io/Sample-Web-Practice/Spectral%20V/css2.html)
